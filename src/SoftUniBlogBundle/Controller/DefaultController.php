@@ -11,6 +11,7 @@ class DefaultController extends Controller
 {
     /**
      * @Route("/", name="blog_index")
+     *
      * @param Request $request
      * @return \Symfony\Component\HttpFoundation\Response
      */
